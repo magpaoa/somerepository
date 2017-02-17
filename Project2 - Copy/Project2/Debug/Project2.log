@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\magpaoa\documents\visual studio 2015\projects\project2\project2\source.cpp(9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Project2.vcxproj -> c:\users\magpaoa\documents\visual studio 2015\Projects\Project2\Debug\Project2.exe
+  Project2.vcxproj -> c:\users\magpaoa\documents\visual studio 2015\Projects\Project2\Debug\Project2.pdb (Partial PDB)
